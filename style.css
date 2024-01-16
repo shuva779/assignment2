@@ -179,6 +179,20 @@ background: rgba(19, 19, 24, 0.05);
     text-align: center; 
     align-items: center; 
 }
+footer{
+    background: rgba(19, 19, 24, 0.05);
+    text-align: center; 
+    align-items: center;
+    margin-top: 70px;
+    padding-top: 20px;
+}
+.putu{
+    margin-left: 800px; 
+}
+footer img{
+    height: 24px;
+    width: 24px;
+}
 
 
 
@@ -227,6 +241,14 @@ background: rgba(19, 19, 24, 0.05);
         margin-left: auto;
         margin-right: auto;
     }
+    .putu{
+        margin-left: 150px;
+    }
+    .tuut{
+        width: 335px;
+        height: 289px;
+    }
+    
 
 
 }
